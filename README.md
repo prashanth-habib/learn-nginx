@@ -1,0 +1,1 @@
+This repository consists of files created for the purpose of learning nginx.
